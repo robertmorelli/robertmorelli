@@ -5,7 +5,7 @@
 - GPU-accelerated cellular automata app.
 - Portable algorithms for carryless multiplication and exponentiation.
 
-**Past Projects:** *(email me if you want to see something not on github. I have to deal with silly academic policies)*
+**Past Projects:** *(email me if you want to see something not public on github. I have to deal with silly academic policies)*
 - Randomized Pacman game.
 - Spreadsheet as a DLL compiler (constant cells get setters, formula cells get getters).
 - Simple data binding language for websites.
