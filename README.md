@@ -6,7 +6,7 @@
 - Portable algorithms for carryless multiplication and exponentiation.
 
 **Past Projects:** *(email me if you want to see something not public on github. I have to deal with silly academic policies)*
-- [Tiny nkey rollover tester OS](https://github.com/robertmorelli/TinyNKRO.OS)
+- [Tiny nkey rollover tester OS in zig](https://github.com/robertmorelli/TinyNKRO.OS)
 - Randomized Pacman game.
 - Spreadsheet as a DLL compiler (constant cells get setters, formula cells get getters).
 - Simple data binding language for websites.
