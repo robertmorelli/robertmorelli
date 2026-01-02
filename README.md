@@ -9,7 +9,7 @@
 - [Randomized Pacman game (2021)](https://github.com/robertmorelli/Game)
 - [approximate change of base (2025)](https://github.com/robertmorelli/messy_print)
 - [lexer stuff (2025)](https://github.com/robertmorelli/emmet_lite)
-- [automated resume (2025)](https://github.com/robertmorelli/typst-resume)
+- [automated resume (2025)](https://robertmorelli.github.io/typst-resume/)
 - [held-karp in zig (2025)](https://github.com/robertmorelli/held-karp)
 - [disk stabbing data structure (2025)](https://github.com/robertmorelli/disk-tree)
 - [spreadsheet formulas to DLL compiler (2024)](https://github.com/robertmorelli/dll-compiler)
