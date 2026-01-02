@@ -1,9 +1,10 @@
 # Robert Morelli 
 
-**Currently Working On:**
+**Currently Projects:**
 - cinder gradual typing performance benchmarks
+- quant league
 
-**Past Projects:** *(email me if you want to see something not public on github. I have to deal with silly academic policies)*
+**Past Projects:**
 - [tiny nkey rollover tester OS in zig (2025)](https://github.com/robertmorelli/TinyNKRO.OS)
 - [Randomized Pacman game (2021)](https://github.com/robertmorelli/Game)
 - [approximate change of base (2025)](https://github.com/robertmorelli/messy_print)
