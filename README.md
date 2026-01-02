@@ -1,14 +1,21 @@
 # Robert Morelli 
 
 **Currently Working On:**
-- Compilers stuff
-- Portable algorithms for carryless multiplication and exponentiation.
+- cinder gradual typing performance benchmarks
 
 **Past Projects:** *(email me if you want to see something not public on github. I have to deal with silly academic policies)*
-- [Tiny nkey rollover tester OS in zig](https://github.com/robertmorelli/TinyNKRO.OS)
-- Randomized Pacman game.
-- Spreadsheet as a DLL compiler.
-- Simple data binding language for websites.
-- GPU-accelerated Game of Life.
-- Funky SVG animation creator, like MS Paint for animations.
-- LED controller for Corsair fans (still working on porting the performance meter from Python to Node).
+- [tiny nkey rollover tester OS in zig (2025)](https://github.com/robertmorelli/TinyNKRO.OS)
+- [Randomized Pacman game (2021)](https://github.com/robertmorelli/Game)
+- [approximate change of base (2025)](https://github.com/robertmorelli/messy_print)
+- [lexer stuff (2025)](https://github.com/robertmorelli/emmet_lite)
+- [automated resume (2025)](https://github.com/robertmorelli/typst-resume)
+- [held-karp in zig (2025)](https://github.com/robertmorelli/held-karp)
+- [disk stabbing data structure (2025)](https://github.com/robertmorelli/disk-tree)
+- [spreadsheet formulas to DLL compiler (2024)](https://github.com/robertmorelli/dll-compiler)
+- [color alchemy (2024)](https://robertmorelli.github.io/color-alchemy/)
+- [CSS grid examples (2024)](https://robertmorelli.github.io/grid-examples/)
+- [portable algorithms for carryless multiplication and exponentiation (2024)](https://github.com/robertmorelli/hilbert-new-algs)
+- [GPU-accelerated game of life (2024)](https://github.com/robertmorelli/fully-reusable-microwave)
+- [simple data binding language for websites (2022)](https://github.com/robertmorelli/garbage-script)
+- [LED controller for corsair fans (2021)](https://github.com/robertmorelli/fan-app)
+- SVG animation creator (2019)
