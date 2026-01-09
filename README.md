@@ -1,6 +1,6 @@
 # Robert Morelli 
 
-**Currently Projects:**
+**Current Projects:**
 - [cinder gradual typing performance benchmarks](https://github.com/robertmorelli/cinder-docker-container)
 - quant league
 
