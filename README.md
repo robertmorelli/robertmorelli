@@ -17,8 +17,8 @@ I love algorithms, data structures, compilers, performance and zig!
 - [color alchemy [qt/c++] (2024)](https://robertmorelli.github.io/color-alchemy/) ★
 - [CSS grid examples [css/html] (2024)](https://robertmorelli.github.io/grid-examples/) ☆
 - [portable algorithms for carryless multiplication and exponentiation [c/js/wasm] (2024)](https://github.com/robertmorelli/hilbert-new-algs)
-- [gpu-accelerated game of life [swift/metal] (2024)](https://github.com/robertmorelli/fully-reusable-microwave)
+- [gpu-accelerated game of life [swift/metal] (2024)](https://github.com/robertmorelli/fully-reusable-microwave/tree/back-to-buffer-baby)
 - [simple data binding language for websites [js] (2022)](https://github.com/robertmorelli/garbage-script)
 - [LED controller for corsair fans [c/python] (2021)](https://github.com/robertmorelli/fan-app)
-- [randomized Pacman game [java] (2021)](https://github.com/robertmorelli/Game) ☆
+- [randomized Pacman game [java] (2021)](https://github.com/robertmorelli/randomized-pacman) ☆
 - SVG animation creator [js] (2019)
