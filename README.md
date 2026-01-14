@@ -10,7 +10,7 @@ I love algorithms, data structures, compilers, performance and zig!
 - [tiny nkey rollover tester OS [zig] (2025)](https://github.com/robertmorelli/TinyNKRO.OS) ☆
 - [fast approximate change of base [python] (2025)](https://github.com/robertmorelli/messy_print)
 - [lexer stuff [zig] (2025)](https://github.com/robertmorelli/emmet_lite)
-- [automated resume [typst] (2025)](https://robertmorelli.github.io/typst_resume/)
+- [automated resume [typst] (2025)](https://robertmorelli.github.io/resume/)
 - [held-karp [zig] (2025)](https://github.com/robertmorelli/held-karp)
 - [disk stabbing data structure [zig/python] (2025)](https://github.com/robertmorelli/disk_tree)
 - [spreadsheet formulas to DLL compiler [c#] (2024)](https://github.com/robertmorelli/dll_compiler) ☆
