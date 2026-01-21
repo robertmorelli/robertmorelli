@@ -21,4 +21,4 @@ I love algorithms, data structures, compilers, performance and zig!
 - [simple data binding language for websites [js] (2022)](https://github.com/robertmorelli/garbage_script)
 - [LED controller for corsair fans [c/python] (2021)](https://github.com/robertmorelli/fan_app)
 - [randomized Pacman game [java] (2021)](https://github.com/robertmorelli/randomized_pacman) ☆
-- [SVG animation creator [js] (2019)](robertmorelli.github.io/svg_animator/) ☆
+- [SVG animation creator [js] (2019)](https://robertmorelli.github.io/svg_animator/) ☆
