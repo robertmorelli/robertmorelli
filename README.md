@@ -6,6 +6,7 @@ I love algorithms, data structures, compilers, performance and zig!
 - quant league [python/react]
 
 **Past Projects:**
+- [beta reduction visualizer [js html] (2026)](https://robertmorelli.github.io/beta_reduction_visualizer/)
 - [optimized bead/gravity sort [zig] (2026)](https://github.com/robertmorelli/bead_sort_u5x32)
 - [tiny nkey rollover tester OS [zig] (2025)](https://github.com/robertmorelli/TinyNKRO.OS) ☆
 - [fast approximate change of base [python] (2025)](https://github.com/robertmorelli/messy_print)
