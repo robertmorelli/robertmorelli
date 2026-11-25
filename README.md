@@ -14,7 +14,10 @@ I love algorithms, data structures, compilers, performance, wasm, and zig!
 - [GPU search and Lean 4 formalization for OEIS A258107 [lean/zig] (2026)](https://github.com/robertmorelli/not_really_binary)
 - [arithmetic expression parser using range-minimum queries [zig] (2026)](https://github.com/robertmorelli/seg-parse)
 - [234k-word English dictionary trie in 2.2 MB of wasm [zig/utu/wasm] (2026)](https://robertmorelli.github.io/english/)
+- [brainfuck to .NET IL JIT compiler [c#] (2026)](https://github.com/robertmorelli/brainfuck_compiler)
 - [unhinged fizzbuzz implementations [asm/python] (2026)](https://github.com/robertmorelli/unhinged_fizzbuzz)
+- [PTX to LLVM IR lifter [ts] (2026)](https://github.com/robertmorelli/levitate2)
+- [color palette picker [js/html] (2026)](https://robertmorelli.github.io/palette_picker/)
 - [minimal native macOS plain-text editor [swift] (2026)](https://github.com/robertmorelli/potenad)
 - [MIPS lsp and vscode extension (2026)](https://marketplace.visualstudio.com/items?itemName=robertmorelli.mips-assembly)
 - [beta reduction visualizer [js/html] (2026)](https://robertmorelli.github.io/beta_reduction_visualizer/)
@@ -23,7 +26,8 @@ I love algorithms, data structures, compilers, performance, wasm, and zig!
 - [fast approximate change of base [python] (2025)](https://github.com/robertmorelli/messy_print)
 - [lexer stuff [zig] (2025)](https://github.com/robertmorelli/emmet_lite)
 - [automated resume [typst] (2025)](https://robertmorelli.github.io/resume/)
-- [held-karp [zig] (2025)](https://github.com/robertmorelli/held-karp)
+- [automated code snippet pdf template [typst] (2025)](https://github.com/robertmorelli/snippet_template)
+- [held-karp [zig] (2025)](https://github.com/robertmorelli/held_karp)
 - [disk stabbing data structure [zig] (2025)](https://github.com/robertmorelli/disk_tree)
 - [spreadsheet formulas to DLL compiler [c#] (2024)](https://github.com/robertmorelli/dll_compiler) ☆
 - [color alchemy [qt/c++] (2024)](https://robertmorelli.github.io/color_alchemy/) ★
