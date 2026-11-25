@@ -7,6 +7,7 @@ I love algorithms, data structures, compilers, performance, wasm, and zig!
 - [cinderx gradual typing detyper and benchmarks [python]](https://github.com/robertmorelli/detyper_cinderx) ☆
 
 **Past Projects:**
+- [JS-like language VM with columnar B*-tree heap [zig] (2026)](https://github.com/robertmorelli/pool_js)
 - [Wasm 3.0 (with GC) to Go AOT compiler [go] (2026)](https://github.com/robertmorelli/gosm) ☆
 - [wasm optimizer for single-call hot loop tier-up [js/wasm] (2026)](https://github.com/robertmorelli/luge)
 - [O3 vs Os/Oz benchmarks across wasm, native, and compilers [c/js/python] (2026)](https://github.com/robertmorelli/wizard_of_oz)
